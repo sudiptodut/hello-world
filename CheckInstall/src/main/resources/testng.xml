@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SSD_Suite">
+
+ <test name = "SSD Tests">
+ 	<packages>
+ 		<package name="com.test.qa.*" />
+ 	</packages>
+ 
+ </test>
+
+
+
+</suite>

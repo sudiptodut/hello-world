@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-12-29T20:12:40 IST" name="Default suite" finished-at="2019-12-29T20:12:40 IST" duration-ms="116">
+    <groups>
+    </groups>
+    <test started-at="2019-12-29T20:12:40 IST" name="Default test" finished-at="2019-12-29T20:12:40 IST" duration-ms="116">
+      <class name="com.test.qa.checkInstall">
+        <test-method signature="sayBye()[pri:0, instance:com.test.qa.checkInstall@3bd40a57]" started-at="2019-12-29T20:12:40 IST" name="sayBye" finished-at="2019-12-29T20:12:40 IST" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sayBye -->
+        <test-method signature="sayHello()[pri:0, instance:com.test.qa.checkInstall@3bd40a57]" started-at="2019-12-29T20:12:40 IST" name="sayHello" finished-at="2019-12-29T20:12:40 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sayHello -->
+        <test-method signature="sayPrint()[pri:0, instance:com.test.qa.checkInstall@3bd40a57]" started-at="2019-12-29T20:12:40 IST" name="sayPrint" finished-at="2019-12-29T20:12:40 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sayPrint -->
+        <test-method signature="saySum()[pri:0, instance:com.test.qa.checkInstall@3bd40a57]" started-at="2019-12-29T20:12:40 IST" name="saySum" finished-at="2019-12-29T20:12:40 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- saySum -->
+      </class> <!-- com.test.qa.checkInstall -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
